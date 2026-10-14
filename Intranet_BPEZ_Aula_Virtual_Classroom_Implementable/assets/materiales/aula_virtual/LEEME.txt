@@ -1,0 +1,12 @@
+CARPETA DE MATERIALES - AULA VIRTUAL BPEZ
+Ruta: assets/materiales/aula_virtual/
+
+Copie en esta carpeta el informe base con EXACTAMENTE estos nombres:
+
+  Informe_Biblioteca_Publica_del_Zulia.pdf   -> se abre para lectura
+  Informe_Biblioteca_Publica_del_Zulia.docx  -> se ofrece para descarga
+
+Mientras los archivos no existan, los botones del aula aparecen
+deshabilitados y la sección "Trabajo de clase" los marca como "pendiente".
+Si prefiere otros nombres, edite el arreglo $materiales en
+modules/aula_virtual/classroom.php.
